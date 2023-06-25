@@ -1,0 +1,11 @@
+
+.img-cart{
+	color: white;
+	background-color: greenyellow;
+	padding: 32px;
+	list-style-type:none;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width:200px;
+}
